@@ -1,3 +1,0 @@
-Sub Main(cell As String)
-Range(cell).Value = Now()
-End Sub
